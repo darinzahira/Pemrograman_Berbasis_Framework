@@ -1,0 +1,18 @@
+{
+  "keranjang": [
+    {
+      "id": 2,
+      "namaproduk": "AC DAIKIN 1 PK FTC 25",
+      "harga": 5100000,
+      "gambar": "https://images.tokopedia.net/img/cache/900/product-1/2020/4/20/7395129/7395129_d11a3167-d529-4374-b696-ab2009c936e9_720_720.jpg",
+      "stok": 1
+    },
+    {
+      "id": 1,
+      "namaproduk": "AC PANASONIC 1/2 PK",
+      "harga": 3500000,
+      "gambar": "https://images.tokopedia.net/img/cache/700/product-1/2019/5/5/5962335/5962335_ea91dc2b-a9f3-4d21-abeb-d56d5712cc7e_480_480.jpg",
+      "stok": 1
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+    "produk": [
+      {
+        "userId": 1,
+        "id": 1,
+        "namaproduk": "AC PANASONIC 1/2 PK",
+        "harga": 3500000,
+        "gambar": "https://images.tokopedia.net/img/cache/700/product-1/2019/5/5/5962335/5962335_ea91dc2b-a9f3-4d21-abeb-d56d5712cc7e_480_480.jpg",
+        "stok": 2
+      },
+      {
+        "userId": 2,
+        "id": 2,
+        "namaproduk": "AC DAIKIN 1 PK FTC 25",
+        "harga": 5100000,
+        "gambar": "https://images.tokopedia.net/img/cache/900/product-1/2020/4/20/7395129/7395129_d11a3167-d529-4374-b696-ab2009c936e9_720_720.jpg",
+        "stok": 3
+      },
+      {
+        "userId": 3,
+        "id": 3,
+        "namaproduk": "SAMSUNG AR 09 STANDART 1 PK",
+        "harga": 2928000,
+        "gambar": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//107/MTA-8664992/samsung_samsung_ar_09_tghqasi_-_ac_split_air_conditioner_standart_1_pk_freon_r_32_ar09tghqasinse_series_-_ar09tghqasi_full01_bhs4z6om.jpg",
+        "stok": 3
+      },
+      {
+        "userId": 3,
+        "id": 4,
+        "namaproduk": "Sharp PJ-A26MY-B Air Cooler",
+        "harga": 1100000,
+        "gambar": "https://id-test-11.slatic.net/shop/61704f777e6e4cb5053230a70491c256.jpeg",
+        "stok": 2
+      },
+      {
+        "userId": 3,
+        "id": 5,
+        "namaproduk": "Mayaka CO-005E BE Air Cooler",
+        "harga": 800000,
+        "gambar": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//92/MTA-1360189/mayaka_mayaka-co-028-jy-air-cooler_full04.jpg",
+        "stok": 5
+      },
+      {
+        "userId": 3,
+        "id": 6,
+        "namaproduk": "Kris Air Cooler 1500 Cmh 100 W",
+        "harga": 2499000,
+        "gambar": "https://res.cloudinary.com/ruparupa-com/image/upload/f_auto,q_auto/l_ace:c5f05d:8cb580/f_auto,q_auto:eco/v1542131842/Products/10185736_1.jpg",
+        "stok": 7
+      },
+      {
+        "userId": 3,
+        "id": 7,
+        "namaproduk": "LG Air Conditioner 1 PK",
+        "harga": 1499000,
+        "gambar": "https://5.imimg.com/data5/HC/FL/MY-35013691/lg-air-conditioner-1-250x250.jpg",
+        "stok": 4
+      },
+      {
+        "userId": 3,
+        "id": 8,
+        "namaproduk": "Air Conditioner SHARP AH-AU-A5SSY",
+        "harga": 3520000,
+        "gambar": "https://s0.bukalapak.com/img/55721030941/large/Air_Conditioner_SHARP_AH_AU_A5SSY.png",
+        "stok": 3
+      },
+      {
+        "userId": 3,
+        "id": 9,
+        "namaproduk": "AC Gree 1/2 PK GWC05MOO",
+        "harga": 2750000,
+        "gambar": "https://images.tokopedia.net/img/cache/700/product-1/2016/6/1/5345545/5345545_33eed114-5fdf-4ca5-8db9-5ef4035420e1.jpg",
+        "stok": 4
+      },
+      {
+        "userId": 3,
+        "id": 10,
+        "namaproduk": "AC Toshiba 1/2 PK RAS-05J2KG-ID",
+        "harga": 3390000,
+        "gambar": "https://images.tokopedia.net/img/cache/700/product-1/2020/9/11/4131321/4131321_c9c8b2af-e32a-44f1-b9da-42a4da5a8997_701_701.jpg",
+        "stok": 3
+      }
+    ]
+  }
