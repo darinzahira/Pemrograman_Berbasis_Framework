@@ -1,0 +1,104 @@
+{
+  "mahasiswa": [
+    {
+      "userId": 1,
+      "id": 1,
+      "NIM": 1841720164,
+      "nama": "RHEZALDI IRNANTYO IRAWAN",
+      "alamat": "Jl. Medokan Asri Utara 13 no 55 Surabaya",
+      "hp": "085850336940",
+      "angkatan": 2018,
+      "status": "AKTIF"
+    },
+    {
+      "userId": 2,
+      "id": 2,
+      "NIM": 1741720214,
+      "nama": "HAIKAL IQBAL RAYNALDI",
+      "alamat": "Malang",
+      "hp": "081802023523",
+      "angkatan": 2017,
+      "status": "CUTI"
+    },
+    {
+      "userId": 3,
+      "id": 3,
+      "NIM": 1641720017,
+      "nama": "PUTRI INDAH MAWARNI",
+      "alamat": "TANGGERANG",
+      "hp": "085850336931",
+      "angkatan": 2016,
+      "status": "LULUS"
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "NIM": 1841720087,
+      "nama": "ALAN PERDHANA TIMOR",
+      "alamat": "Jl. GPM 47 MERI MOJOKERTO",
+      "hp": "082257548146",
+      "angkatan": 2018,
+      "status": "AKTIF"
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "NIM": 1841720033,
+      "nama": "DARIN ZAHIRA AFLAH",
+      "alamat": "Jl. RADEN PATAH SIDOARJO",
+      "hp": "085717717845",
+      "angkatan": 2018,
+      "status": "AKTIF"
+    },
+    {
+      "userId": 3,
+      "id": 6,
+      "NIM": 1641720187,
+      "nama": "NUGROHO FEBRIYANTO",
+      "alamat": "MAGELANG",
+      "hp": "085717717313",
+      "angkatan": 2016,
+      "status": "LULUS"
+    },
+    {
+      "userId": 3,
+      "id": 7,
+      "NIM": 1641720013,
+      "nama": "NIKO RIZKY",
+      "alamat": "MALANG",
+      "hp": "08571774231",
+      "angkatan": 2016,
+      "status": "LULUS"
+    },
+    {
+      "userId": 1,
+      "id": 8,
+      "NIM": 1841720128,
+      "nama": "MUKHAMMAD ARIFIN",
+      "alamat": "PASURUAN",
+      "hp": "088996272090",
+      "angkatan": 2018,
+      "status": "AKTIF"
+    },
+    {
+      "userId": 1,
+      "id": 9,
+      "NIM": 1841720041,
+      "nama": "ARDAN ANJUNG KUSUMA",
+      "alamat": "BOJONEGORO",
+      "hp": "085258967800",
+      "angkatan": 2018,
+      "status": "AKTIF"
+    },
+    {
+      "userId": 1,
+      "id": 10,
+      "NIM": 1841720025,
+      "nama": "LIVIA YURIKE KHURIL MAULA",
+      "alamat": "JL. IKAN PIRANHA ATAS",
+      "hp": "082228773286",
+      "angkatan": 2018,
+      "status": "AKTIF"
+    }
+  ]
+}
